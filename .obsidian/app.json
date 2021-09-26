@@ -2,5 +2,6 @@
   "spellcheck": true,
   "promptDelete": true,
   "alwaysUpdateLinks": true,
-  "trashOption": "local"
+  "trashOption": "local",
+  "showLineNumber": false
 }
