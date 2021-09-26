@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "70fdeb019d990977",
+    "type": "split",
+    "children": [
+      {
+        "id": "75030ba11bb00196",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "episodes/episode-0.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f59fd2c84a03d79e",
+    "type": "split",
+    "children": [
+      {
+        "id": "564f67d12a6a6f5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1c69f05c74906f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "74e7939aaaf23df3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c3b72d730365c9ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3e0c16b5849a9de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5630db3412173e0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "episodes/episode-0.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "75030ba11bb00196",
+  "lastOpenFiles": [
+    "2021-09-26.md",
+    "Untitled 1.md",
+    "Untitled.md"
+  ]
+}
