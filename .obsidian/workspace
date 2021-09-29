@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "bitter-engine/README.md",
             "mode": "source"
           }
         }
@@ -68,14 +68,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "bitter-engine/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -83,16 +83,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "c6d72ddbd170b84e",
   "lastOpenFiles": [
-    "README.md",
-    "Embark Studios.md",
-    "episodes/episode-0.md",
+    "bitter-engine/README.md",
+    "bitter-engine/Untitled.md",
+    "bitter-engine/features.md",
+    "bitter-engine.md",
     "Untitled.md",
-    "2021-09-26.md",
-    "Untitled 1.md"
+    "README.md",
+    "episodes/episode-0.md",
+    "index.md",
+    "Embark Studios.md",
+    "2021-09-26.md"
   ]
 }

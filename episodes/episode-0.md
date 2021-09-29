@@ -32,7 +32,7 @@ For me, realizing that the only thing preventing me from learning more was my fe
 
 So... Last week I, for the hundredth time until now, decided to follow some basic Learn OpenGL and LearnWGPU tutorials to dip my feet in making [my own Game Engine](https://github.com/bittermandel/bitter-engine). So far I've setup a model viewer that renders 10x10 boxes with different rotation and a directional light that moves slightly each frame. It's definitely been a challenge getting lighting and shadows to render properly, while learning the WebGPU API, GLSL and linear algebra at the same time. Perhaps this is too hard for my web-dev mind in the end...
 
-One day last week I made some major progress with my small model viewer. I managed to implement a Phong lighting model without copying too much code #proud
+One day last week I made some major progress with my small model viewer. I managed to implement a Phong lighting model without copying too much code #proud 
 I shared some of that progress with my new colleagues at #EmbarkStudios and a kind soul asked me if I can share my journey in a blog!
 
 That gave me enough motivation to sit down for a few hours and write down what my motivations actually are. The area of game development is incredibly exciting and interesting, and I keep going back to it with bursts of motivation. So why not give it a **real** chance and write a little bit about it?
